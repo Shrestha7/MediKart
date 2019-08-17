@@ -1,2 +1,0 @@
-# MediKart
-online medicine ecommerce

@@ -1,4 +1,4 @@
-#!C:\Users\user\Documents\GitHub\MediKart\env\Scripts\python.exe
+#!C:\Users\sushmita kc\Documents\GitHub\MediKart\env\Scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":
