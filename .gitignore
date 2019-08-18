@@ -1,0 +1,19 @@
+#virtualenv
+.vscode
+.env
+.venv
+env/
+
+#django migrations
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
+.DS_Store
+*.sqlite3
+db.sqlite3
+*.pyc
+
+__pychache__/
+
+
